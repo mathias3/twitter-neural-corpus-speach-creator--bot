@@ -1,8 +1,6 @@
 const unirest = require('unirest')
 
-/*
-  Get a new API key at https://market.mashape.com/vivekn/sentiment-3
-*/
+
 
 var sentiment = {}
 
